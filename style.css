@@ -199,6 +199,7 @@
 	background-color: #ee478a;
 	border-radius: 15px;
 	text-align: center;
+
 }
 .client-text-5-1{
 	/*height: 30px;*/
@@ -210,7 +211,7 @@
 	height: 30px;
 	padding-top: 15px;
 	color: #fff;
-	font-size: 25px;
+	font-size: 28px;
 }
 .footertext{
 	position: relative;
